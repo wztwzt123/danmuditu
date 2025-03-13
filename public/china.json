@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "710000",
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[121.5, 25.0], [121.5, 21.9], [118.0, 21.9], [118.0, 25.0], [121.5, 25.0]]]
+      },
+      "properties": {
+        "cp": [121.0, 23.5],
+        "name": "台湾",
+        "childNum": 6
+      }
+    },
+    {
+      "id": "110000",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[116.4, 39.9], [117.0, 40.1], [117.0, 39.7], [116.4, 39.7], [116.4, 39.9]]]
+      },
+      "properties": {
+        "cp": [116.4, 39.9],
+        "name": "北京",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "310000",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[121.4, 31.2], [121.6, 31.3], [121.6, 31.1], [121.4, 31.1], [121.4, 31.2]]]
+      },
+      "properties": {
+        "cp": [121.4, 31.2],
+        "name": "上海",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "440000",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[113.2, 23.1], [113.5, 23.3], [113.5, 22.9], [113.2, 22.9], [113.2, 23.1]]]
+      },
+      "properties": {
+        "cp": [113.2, 23.1],
+        "name": "广州",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "440300",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[114.0, 22.5], [114.3, 22.7], [114.3, 22.3], [114.0, 22.3], [114.0, 22.5]]]
+      },
+      "properties": {
+        "cp": [114.0, 22.5],
+        "name": "深圳",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "330100",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[120.1, 30.2], [120.3, 30.3], [120.3, 30.1], [120.1, 30.1], [120.1, 30.2]]]
+      },
+      "properties": {
+        "cp": [120.1, 30.2],
+        "name": "杭州",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "510100",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[104.0, 30.6], [104.2, 30.7], [104.2, 30.5], [104.0, 30.5], [104.0, 30.6]]]
+      },
+      "properties": {
+        "cp": [104.0, 30.6],
+        "name": "成都",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "500000",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[106.5, 29.5], [106.7, 29.6], [106.7, 29.4], [106.5, 29.4], [106.5, 29.5]]]
+      },
+      "properties": {
+        "cp": [106.5, 29.5],
+        "name": "重庆",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "610100",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[108.9, 34.2], [109.1, 34.3], [109.1, 34.1], [108.9, 34.1], [108.9, 34.2]]]
+      },
+      "properties": {
+        "cp": [108.9, 34.2],
+        "name": "西安",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "320100",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[118.7, 32.0], [118.9, 32.1], [118.9, 31.9], [118.7, 31.9], [118.7, 32.0]]]
+      },
+      "properties": {
+        "cp": [118.7, 32.0],
+        "name": "南京",
+        "childNum": 1
+      }
+    },
+    {
+      "id": "420100",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[114.2, 30.5], [114.4, 30.6], [114.4, 30.4], [114.2, 30.4], [114.2, 30.5]]]
+      },
+      "properties": {
+        "cp": [114.2, 30.5],
+        "name": "武汉",
+        "childNum": 1
+      }
+    }
+  ]
+}
